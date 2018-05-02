@@ -16,8 +16,7 @@ public class GirlApplicationTests {
 
 		Integer integer = new Integer(2);
 		System.out.println(integer == 2);
-		System.out.println(11111);
-		System.out.println("dev");
+		System.out.println("master");
 	}
 
 }
